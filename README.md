@@ -16,3 +16,4 @@ The tools used in this project are as follows:
 
 Below is the finalised dashboard used in the reports of the project:
 
+![Dashboard]( (https://github.com/SDevalpalli/Profit-margin-and-Returns-Analysis/commit/e45633c8178c65e372df0a050ac4a1df1c42bb4f)
